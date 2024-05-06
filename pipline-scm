@@ -6,3 +6,5 @@ steps {
 cat /etc/os-release
 }
 }
+}
+}
