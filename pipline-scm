@@ -3,7 +3,7 @@ agent any;
 stages {
 stage ('BIULD') {
 steps {
-cat /etc/os-release
+echo " build success"
 }
 }
 }
