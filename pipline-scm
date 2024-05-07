@@ -1,5 +1,5 @@
 pipeline {
-agent {label 'nodes'}
+agent {label 'built-in'}
 stages {
 stage ('BIULD') {
 steps {
