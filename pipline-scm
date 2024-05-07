@@ -1,5 +1,5 @@
 pipeline {
-agent any
+agent {label 'nodes'}
 stages {
 stage ('BIULD') {
 steps {
